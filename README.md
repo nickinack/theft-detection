@@ -19,6 +19,7 @@ Karthik Viswanathan
 cd theft-detection/
 cd app/
 ```
+3. Open the MATLAB shell and execute the command below:
 
 ```matlab
 sec_webcam
